@@ -1,0 +1,13 @@
+#input-fields {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin-left: 10em;
+    margin-right: 10em;
+}
+
+.check-inputs {
+    margin-bottom: 1em;
+    
+}
